@@ -1,0 +1,78 @@
+.project-description {
+    position: absolute;
+    padding: 20px;
+    width: 45%;
+    margin: 20px;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Nunito-Regular';
+    left: 0;
+    animation: pulse 1s;
+
+    p {
+        margin: 0px;
+    }
+
+    .small-para {
+        margin-top: 40px;
+        font-size: 18px;
+        font-family: 'Nunito-Light';
+        color: aquamarine;
+
+        .svg-inline--fa {
+            height: 0.7em;
+            vertical-align: 0em;
+        }
+    }
+}
+
+hr {
+    margin-top: 550px;
+    opacity: 0.2;
+    box-shadow: 0 0 5px 0px lightyellow;
+}
+
+.stage-cube-cont {
+    right: 0;
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    margin: 35px 0px;
+}
+
+.cubespinner {
+    animation-name: spincube;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 12s;
+    transform-style: preserve-3d;
+    transform-origin: 100px 100px 0;
+
+    div {
+        position: absolute;
+        width: 220px;
+        height: 460px;
+        border: 1px solid #ccc;
+        background: rgba(255, 255, 255, 0.4);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 0 20px 0px lightyellow;
+    }
+
+    .face2 {
+        transform: rotateY(90deg) translateZ(110px) translateX(110px);
+    }
+}
+
+@keyframes spincube {
+    from,
+    to {
+        transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    }
+    16% {
+        transform: rotateY(-90deg);
+    }
+}
