@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.639c0e36.css",
-    "main.js": "/portfolio/static/js/main.54882062.js",
+    "main.css": "/portfolio/static/css/main.b768c3a9.css",
+    "main.js": "/portfolio/static/js/main.88f16db0.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/4.png": "/portfolio/static/media/4.f46de5cc0d19f7d75130.png",
     "static/media/about.jpg": "/portfolio/static/media/about.ca7dfcc05c969258cddb.jpg",
@@ -17,12 +17,12 @@
     "static/media/Nunito-ExtraLight.ttf": "/portfolio/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
     "static/media/welcome.jpg": "/portfolio/static/media/welcome.1dadcc3888e76b6ac592.jpg",
     "index.html": "/portfolio/index.html",
-    "main.639c0e36.css.map": "/portfolio/static/css/main.639c0e36.css.map",
-    "main.54882062.js.map": "/portfolio/static/js/main.54882062.js.map",
+    "main.b768c3a9.css.map": "/portfolio/static/css/main.b768c3a9.css.map",
+    "main.88f16db0.js.map": "/portfolio/static/js/main.88f16db0.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.639c0e36.css",
-    "static/js/main.54882062.js"
+    "static/css/main.b768c3a9.css",
+    "static/js/main.88f16db0.js"
   ]
 }
