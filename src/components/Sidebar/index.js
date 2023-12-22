@@ -4,7 +4,7 @@ import './index.scss';
 const Sidebar = () => (
     <div className='nav-bar'>
         <nav>
-            <NavLink exact='true' activeclassname='active' to='/'>
+            <NavLink exact='true' activeclassname='active' to='/portfolio'>
                 HOME
             </NavLink>
             <NavLink exact='true' activeclassname='active' className="about-link" to='/about'>

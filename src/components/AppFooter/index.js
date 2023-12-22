@@ -10,7 +10,7 @@ const AppFooter = () => (
             &nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;
-            Last updated on 5th December 2023
+            Last updated on 16th December 2023
         </p>
     </div>
 )
