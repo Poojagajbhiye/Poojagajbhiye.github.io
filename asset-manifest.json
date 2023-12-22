@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b768c3a9.css",
-    "main.js": "/portfolio/static/js/main.88f16db0.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/4.png": "/portfolio/static/media/4.f46de5cc0d19f7d75130.png",
-    "static/media/about.jpg": "/portfolio/static/media/about.ca7dfcc05c969258cddb.jpg",
-    "static/media/intro.jpg": "/portfolio/static/media/intro.0f44c52a702f5bd985a0.jpg",
-    "static/media/home_with_wishes_light.jpg": "/portfolio/static/media/home_with_wishes_light.48aa119ff25a64f80c7b.jpg",
-    "static/media/footer1.png": "/portfolio/static/media/footer1.5d58b96f7deabcab9333.png",
-    "static/media/home.jpg": "/portfolio/static/media/home.a6f77b069113a8f72dde.jpg",
-    "static/media/Nunito-Light.ttf": "/portfolio/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
-    "static/media/Nunito-Regular.ttf": "/portfolio/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
-    "static/media/Nunito-SemiBold.ttf": "/portfolio/static/media/Nunito-SemiBold.77c1e330694154d3efed.ttf",
-    "static/media/Nunito-Bold.ttf": "/portfolio/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
-    "static/media/Nunito-Black.ttf": "/portfolio/static/media/Nunito-Black.969e95ce4a719e43f654.ttf",
-    "static/media/Nunito-ExtraLight.ttf": "/portfolio/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
-    "static/media/welcome.jpg": "/portfolio/static/media/welcome.1dadcc3888e76b6ac592.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.b768c3a9.css.map": "/portfolio/static/css/main.b768c3a9.css.map",
-    "main.88f16db0.js.map": "/portfolio/static/js/main.88f16db0.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.ceefa175.css",
+    "main.js": "/static/js/main.63eab959.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/4.png": "/static/media/4.f46de5cc0d19f7d75130.png",
+    "static/media/about.jpg": "/static/media/about.ca7dfcc05c969258cddb.jpg",
+    "static/media/intro.jpg": "/static/media/intro.0f44c52a702f5bd985a0.jpg",
+    "static/media/home_with_wishes_light.jpg": "/static/media/home_with_wishes_light.48aa119ff25a64f80c7b.jpg",
+    "static/media/footer1.png": "/static/media/footer1.5d58b96f7deabcab9333.png",
+    "static/media/home.jpg": "/static/media/home.a6f77b069113a8f72dde.jpg",
+    "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/Nunito-SemiBold.ttf": "/static/media/Nunito-SemiBold.77c1e330694154d3efed.ttf",
+    "static/media/Nunito-Bold.ttf": "/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
+    "static/media/Nunito-Black.ttf": "/static/media/Nunito-Black.969e95ce4a719e43f654.ttf",
+    "static/media/Nunito-ExtraLight.ttf": "/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
+    "static/media/welcome.jpg": "/static/media/welcome.1dadcc3888e76b6ac592.jpg",
+    "index.html": "/index.html",
+    "main.ceefa175.css.map": "/static/css/main.ceefa175.css.map",
+    "main.63eab959.js.map": "/static/js/main.63eab959.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b768c3a9.css",
-    "static/js/main.88f16db0.js"
+    "static/css/main.ceefa175.css",
+    "static/js/main.63eab959.js"
   ]
 }
