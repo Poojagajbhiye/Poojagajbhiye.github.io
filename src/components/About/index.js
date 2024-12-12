@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './index.scss'
 import Loader from 'react-loaders';
 import aboutPic from '../../assets/images/about.jpg';
-import { faBookOpen, faDog, faGlobeAsia, faTelevision } from '@fortawesome/free-solid-svg-icons';
+import { faBookOpen, faDog, faDumbbell, faGlobeAsia, faTelevision, faWeight, faWeightHanging } from '@fortawesome/free-solid-svg-icons';
 
 const About = () => {
     return (
@@ -11,24 +11,27 @@ const About = () => {
                 <img src={aboutPic}></img>
                 <div className='text-zone'>
                     <p>
-                        I develop <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>android</span> and <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>web</span> applications with <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Flutter</span> and <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Angular</span>.
+                        I specialize in developing scalable <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Android</span> and <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>web</span> applications using <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Flutter</span>.
                     </p>
                     <p>
-                        Currently, I work at <span style={{ color: 'turquoise' }}>LTIMindtree</span> as an <span style={{ color: 'turquoise' }}>Angular Developer</span>. I also had the opportunity to work as a business analyst.
+                        Currently, I work as a <span style={{ color: 'turquoise' }}>Software Engineer</span> at <span style={{ color: 'turquoise' }}>Neuronic</span>, a Germany-based company, where I focus on enhancing app architecture and scalability. Working full-time from home, I am also exploring <span style={{ color: 'turquoise' }}>AWS</span> for backend development.
                     </p>
                     <p>
-                        In addition, I have <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>single-handedly</span> developed one android application and <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>collaborated</span> for another with <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>Flutter</span>. I'm learning <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>React</span> as well.
+                        Previously, I worked at <span style={{ color: 'turquoise' }}>LTIMindtree</span> as an <span style={{ color: 'turquoise' }}>Angular Developer</span> and gained valuable experience as a <span style={{ color: 'turquoise' }}>Business Analyst</span>.
                     </p>
                     <p>
-                        My goal is to become an expert at <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>Android</span>, <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>iOS</span> and <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>Web development</span>.
+                        I have <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>independently</span> developed one <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>Android</span> application and <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>collaborated</span> on another using <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>Flutter</span>. While I no longer actively use Angular or React, I leverage React to build and maintain this portfolio.
                     </p>
-                    {/* <br/> */}
-                    <p style={{ fontSize: '30px' }}>
-                        When I'm not working or building apps I...<br/>
-                        Read novels and manga <FontAwesomeIcon icon={faBookOpen} color='turquoise'/><br/>
-                        Play with my dog <FontAwesomeIcon icon={faDog} color='turquoise'/><br/>
-                        Don't travel much (but would love to!) <FontAwesomeIcon icon={faGlobeAsia} color='turquoise'/><br/>
-                        Watch anime <FontAwesomeIcon icon={faTelevision} color='turquoise'/><br/>
+                    <p>
+                        My goal is to build highly <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>scalable</span> applications and delve deeper into the world of <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>artificial intelligence</span>.
+                    </p>
+                    <p style={{ fontSize: '30px', lineHeight: '1.6' }}>
+                        When I'm not working or building apps, I...<br />
+                        <FontAwesomeIcon icon={faBookOpen} color="turquoise" /> Read novels and manga<br />
+                        <FontAwesomeIcon icon={faDog} color="turquoise" /> Play with my dog<br />
+                        <FontAwesomeIcon icon={faGlobeAsia} color="turquoise" /> Dream of traveling more<br />
+                        <FontAwesomeIcon icon={faTelevision} color="turquoise" /> Watch anime<br />
+                        <FontAwesomeIcon icon={faDumbbell} color="turquoise" /> Break a sweat at the gym<br />
                     </p>
                 </div>
             </div>
