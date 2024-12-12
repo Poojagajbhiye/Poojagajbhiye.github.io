@@ -1,7 +1,7 @@
 import './index.scss'
 import Loader from 'react-loaders';
 import wp1 from '../../assets/images/intro.jpg';
-import wp2 from '../../assets/images/home_with_wishes_light.jpg';
+import wp2 from '../../assets/images/new_home.jpg';
 import ca1 from '../../assets/images/welcome.jpg';
 import ca2 from '../../assets/images/home.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
